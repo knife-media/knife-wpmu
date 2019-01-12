@@ -6,4 +6,4 @@ If you wish to issue a pull request for code here, please do so on https://githu
 
 ## Installation
 
-Just add these scripts to /wp-content/mu-plugins directory
+Just add `knife-wpmu.php` file to /wp-content/mu-plugins directory
